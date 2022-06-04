@@ -10,6 +10,7 @@
 ### Skills
 - 😎 Python
 - 😍 SQL
+- 🎈 VBA
 - 👍 Power BI
 - ✌ Power Automate
 - ❤ Power Apps/ Power Apps Portal
