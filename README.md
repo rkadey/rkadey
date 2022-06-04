@@ -1,6 +1,6 @@
 ### Hi, I'm Richie 👋
 
-- 🥅 I am a Data Scientist and Power Platform Developer. 
+- 🥅 A Data Scientist and Power Platform Developer. 
 - 😻 I'm passionate about data and leveraging on my analytical skills to solve business problems.
 - 🔭 I’m currently working on building my portfolio website
 - 👯 I’m a sound engineer on weekends 😉...
