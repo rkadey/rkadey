@@ -19,3 +19,6 @@
 
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkadey&show_icons=true&theme=radical)
+
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkadey&layout=compact)](https://github.com/rkadey/github-readme-stats)
