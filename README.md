@@ -3,11 +3,11 @@
 - 😻 I'm passionate about data and leveraging on my analytical skills to solve business problems.
 - 👯 I’m a sound engineer on weekends 😉...
 - ⚡ Fun fact: I deviced a special skill in taking extremely hot foods when I was in college 😂
--
+
 
 <img align="left" width="47%" height="80%" src="https://github-readme-stats.vercel.app/api?username=rkadey&show_icons=true&theme=radical" />
 <img align="left" width="47%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkadey&layout=compact&theme=radical" />
-
+<br>
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
