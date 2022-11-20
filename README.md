@@ -1,7 +1,5 @@
-## Hi, I'm Richie 👋
-
 <img src="https://github.com/rkadey/rkadey/blob/main/github.png">
-<!-- Description -->
+
 - 🥅 A Data Scientist and Power Platform Developer. 
 - 😻 I'm passionate about data and leveraging on my analytical skills to solve business problems.
 - 👯 I’m a sound engineer on weekends 😉...
