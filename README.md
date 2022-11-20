@@ -1,8 +1,12 @@
-### Hi, I'm Richie 👋
+## Hi, I'm Richie 👋
+
+<img src="https://github.com/rkadey/rkadey/blob/main/github.png">
+<!-- Description -->
 - 🥅 A Data Scientist and Power Platform Developer. 
 - 😻 I'm passionate about data and leveraging on my analytical skills to solve business problems.
 - 👯 I’m a sound engineer on weekends 😉...
 - ⚡ Fun fact: I deviced a special skill in taking extremely hot foods when I was in college 😂
+<!-- Tech Stack -->
 <br>
 
 <img align="left" width="47%" height="80%" src="https://github-readme-stats.vercel.app/api?username=rkadey&show_icons=true"/>
