@@ -12,4 +12,6 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code or Low code: A Web Scraping case between Power Automate Desktop and Python.](https://medium.com/@richardkadey/code-or-low-code-a-web-scraping-case-between-power-automate-desktop-and-python-bf46fba9e12b?source=rss-1cca604bdd8c------2)
+- [How to implement Carousel in Power Apps Portal](https://medium.com/@richardkadey/how-to-implement-carousel-in-power-apps-portal-e2214b010395?source=rss-1cca604bdd8c------2)
 <!-- BLOG-POST-LIST:END -->
