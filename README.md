@@ -9,7 +9,7 @@
 <img align="left" width="47%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkadey&layout=compact"/>
 
 <br>
-
+----
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Code or Low code: A Web Scraping case between Power Automate Desktop and Python.](https://medium.com/@richardkadey/code-or-low-code-a-web-scraping-case-between-power-automate-desktop-and-python-bf46fba9e12b?source=rss-1cca604bdd8c------2)
