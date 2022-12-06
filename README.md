@@ -3,7 +3,7 @@
 - 🥅 A Data Scientist and Power Platform Developer. 
 - 😻 I'm passionate about data and leveraging on my analytical skills to solve business problems.
 - 👯 I’m a sound engineer on weekends 😉...
-- ⚡ Fun fact: I deviced a special skill in taking extremely hot foods when I was in college 😂
+- ⚡ Fun fact: I am obssesed with guns😎
 
 <br>
 
