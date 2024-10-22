@@ -7,17 +7,14 @@ I'm a Data Scientist with 4 years of experience, passionate about turning data i
 When I’m not wrangling data 🧑‍💻, you’ll find me exploring the latest AI trends, experimenting with cutting-edge tech 🛠️, or contributing to open-source projects 🌍. Let’s build something awesome together!
 ## Languages and Tools
 
-<br>
 <div>
 <img align="left" width="47%" height="80%" src="https://github-readme-stats.vercel.app/api?username=rkadey&show_icons=true"/>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rkadey&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 
-<br>
 
 
-
-# Latest Blog posts
+## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How Machine Learning Can Mitigate Fraud in the Financial Industry](https://medium.com/@richardkadey/how-machine-learning-can-mitigate-fraud-in-the-financial-industry-3059e3d93284?source=rss-1cca604bdd8c------2)
 - [Label Encoding, Ordinal Encoding, One-Hot Encoding and why you should not use the get_dummies…](https://medium.com/@richardkadey/label-encoding-ordinal-encoding-one-hot-encoding-and-why-you-should-not-use-the-get-dummies-39c53550cc89?source=rss-1cca604bdd8c------2)
