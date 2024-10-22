@@ -25,9 +25,6 @@ When I’m not wrangling data 🧑‍💻, you’ll find me exploring the latest
   </tr>
 </table>
 
-
-
-
 ## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How Machine Learning Can Mitigate Fraud in the Financial Industry](https://medium.com/@richardkadey/how-machine-learning-can-mitigate-fraud-in-the-financial-industry-3059e3d93284?source=rss-1cca604bdd8c------2)
@@ -35,3 +32,7 @@ When I’m not wrangling data 🧑‍💻, you’ll find me exploring the latest
 - [Code or Low code: A Web Scraping case between Power Automate Desktop and Python.](https://medium.com/@richardkadey/code-or-low-code-a-web-scraping-case-between-power-automate-desktop-and-python-bf46fba9e12b?source=rss-1cca604bdd8c------2)
 - [How to implement Carousel in Power Apps Portal](https://medium.com/@richardkadey/how-to-implement-carousel-in-power-apps-portal-e2214b010395?source=rss-1cca604bdd8c------2)
 <!-- BLOG-POST-LIST:END -->
+
+## Socials
+<p align="left"> <a href="https://www.github.com/rkadey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+<a href="https://www.linkedin.com/in/richard-kwaku-kadey-096710114/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@richardkadey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/dev_kadey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
