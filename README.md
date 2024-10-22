@@ -5,12 +5,13 @@
 I'm a Data Scientist with 4 years of experience, passionate about turning data into actionable insights! 📊💡 Currently, I’m working at a leading bank 🏦, applying machine learning and AI 🤖 solutions to solve complex business challenges. I've also had the chance to collaborate with German clients 🇩🇪, gaining valuable experience across different industries and cultures.
 
 When I’m not wrangling data 🧑‍💻, you’ll find me exploring the latest AI trends, experimenting with cutting-edge tech 🛠️, or contributing to open-source projects 🌍. Let’s build something awesome together!
+## Languages and Tools
 
 <br>
-
+<div>
 <img align="left" width="47%" height="80%" src="https://github-readme-stats.vercel.app/api?username=rkadey&show_icons=true"/>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rkadey&theme=highcontrast" alt="GitHub Streak" /></a>
-
+</div>
 
 <br>
 
